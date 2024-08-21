@@ -24,8 +24,7 @@
 **My Galactic Projects:**
 
 * **Seamless AI:** A groundbreaking AI suite that merges the latest advancements in NLP, computer vision, and multimodal capabilities, supporting 11 Indian languages.
-* **AI-Enhanced Monitoring System:** Leveraging visual learning models like Moondream2 and Gemini-1.5-Flash to enhance construction project oversight at the National Remote Sensing Centre, ISRO.
-* **Twitter Clone Using MERN Stack:**  A full-stack web application replicating core features of Twitter, using MongoDB, Express.js, React, and Node.js.
+* **AI-Enhanced Monitoring System:** Leveraging visual learning models like Moondream2 and Gemini-1.5-Flash to enhance construction project oversight at the National Remote Sensing Centre, ISRO. 
 * **Intelligent Bike Locking System (IBLS):**  An IoT-powered system that detects and notifies bike owners of unauthorized access.
 * **Prediction of Cardiovascular Disease Using ML:**  Developed a machine learning model with 91% accuracy for predicting cardiovascular disease.
 
