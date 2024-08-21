@@ -4,20 +4,18 @@
 
 **Here's a glimpse into my universe:**
 
-✨ **Former Intern:** ISRO, India Meteorological Department, NRSC Delhi - Embarked on exciting journeys exploring the frontiers of space, weather forecasting, and remote sensing.
+✨ **Former Intern:** ISRO, India Meteorological Department, NRSC Delhi - Embarked on exciting journeys exploring the frontiers of data science.
 
 🧠 **Data Science Enthusiast:**  Currently mastering the art of data science, diving deep into the realms of machine learning, deep learning, and AI.
 
-☁️ **Cloud Explorer:**  Navigating the boundless landscapes of cloud computing, venturing into the territories of AWS, Azure, and GCP.
-
-🎨 **UI/UX Weaver:**  Passionate about crafting intuitive and engaging user interfaces that seamlessly blend aesthetics and functionality.
+☁️ **Cloud Explorer:**  Navigating the boundless landscapes of cloud computing, venturing into the territories of Google Cloud Platfomr.
 
 **My Constellation of Skills:**
 
 * **Programming Languages:** Python, Java, C++
 * **Data Science Arsenal:** TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 * **Cloud Technologies:**  GCP
-* **Databases:** PostgreSQL, MongoDB
+* **Databases:** PostgreSQL
 * **Version Control:** Git
 
 
