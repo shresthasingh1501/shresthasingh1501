@@ -16,17 +16,10 @@
 
 * **Programming Languages:** Python, Java, C++
 * **Data Science Arsenal:** TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
-* **Cloud Technologies:** AWS, Azure, GCP
+* **Cloud Technologies:**  GCP
 * **Databases:** PostgreSQL, MongoDB
-* **Web Development:** HTML, CSS, JavaScript, React, Node.js
 * **Version Control:** Git
 
-**My Galactic Projects:**
-
-* **Seamless AI:** A groundbreaking AI suite that merges the latest advancements in NLP, computer vision, and multimodal capabilities, supporting 11 Indian languages.
-* **AI-Enhanced Monitoring System:** Leveraging visual learning models like Moondream2 and Gemini-1.5-Flash to enhance construction project oversight at the National Remote Sensing Centre, ISRO. 
-* **Intelligent Bike Locking System (IBLS):**  An IoT-powered system that detects and notifies bike owners of unauthorized access.
-* **Prediction of Cardiovascular Disease Using ML:**  Developed a machine learning model with 91% accuracy for predicting cardiovascular disease.
 
 **My Cosmic Journey:**
 
