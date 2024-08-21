@@ -35,7 +35,7 @@ I'm a firm believer in continuous learning and exploration. I'm constantly seeki
 
 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn Profile URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrestha-singh-/)
 
 **Beyond the Code:**
 
