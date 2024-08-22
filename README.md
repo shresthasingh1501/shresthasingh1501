@@ -8,7 +8,7 @@
 
 🧠 **Data Science Enthusiast:**  Currently mastering the art of data science, diving deep into the realms of machine learning, deep learning, and AI.
 
-☁️ **Cloud Explorer:**  Navigating the boundless landscapes of cloud computing, venturing into the territories of Google Cloud Platfomr.
+☁️ **Cloud Explorer:**  Navigating the boundless landscapes of cloud computing, venturing into the territories of Google Cloud Platform.
 
 **My Constellation of Skills:**
 
@@ -29,8 +29,8 @@ I'm a firm believer in continuous learning and exploration. I'm constantly seeki
 
 **Beyond the Code:**
 
-* 🎤 I'm a passionate public speaker and enjoy sharing my knowledge and experiences with others.
-* ♟️ I'm a strategic thinker and enjoy playing chess in my free time.
-* 🎨 I have a creative side and enjoy expressing myself through various art forms.
+* 🎤 I'm a passionate public speaker and enjoy sharing my knowledge and experiences with others with a deep history in MUN.
+* ♟️ I'm a strategic thinker and enjoy participating in hackathons.
+* 🎨 I have a creative side and enjoy expressing myself through paintings and sketches.
 
 **Thank you for visiting my coding cosmos. Let's explore the universe of possibilities together!** 🌌
