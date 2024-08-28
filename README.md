@@ -4,7 +4,7 @@
 
 **Here's a glimpse into my universe:**
 
- Data Scientist at ION Group ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+˖🪐 **Data Scientist at ION Group** ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 
 ✨ **Former Intern:** ISRO, India Meteorological Department, NRSC Delhi - Embarked on exciting journeys exploring the frontiers of data science.
