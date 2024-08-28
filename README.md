@@ -4,11 +4,15 @@
 
 **Here's a glimpse into my universe:**
 
+
 ˖🪐 **Data Scientist at ION Group** 
-　　
+
+  
 ✨ **Former Intern:** ISRO, India Meteorological Department, NRSC Delhi - Embarked on exciting journeys exploring the frontiers of data science.˚　　　
 
+
 🧠 **Data Science Enthusiast:**  Currently mastering the art of data science, diving deep into the realms of machine learning, deep learning, and AI.˚
+
 
 ☁️ **Cloud Explorer:**  Navigating the boundless landscapes of cloud computing, venturing into the territories of Google Cloud Platform.˚　　　　✦　　
 
